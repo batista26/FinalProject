@@ -1,1 +1,0 @@
-#define THERMISTOR_CHANNEL
